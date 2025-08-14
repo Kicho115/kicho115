@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! I'm Oscar (Kicho115) 👋
 
-<!--
-**Kicho115/kicho115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate developer from Tijuana, Mexico, focused on building web apps, working with LLMs, and clean, functional user experiences.  
+I enjoy working with **Next.js**, **Swift**, and **Python**, as well as exploring new tools and frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Skills
+
+- **Languages & Frameworks**: JavaScript, Swift, React, Next.js, Python, CSS.  
+- **Areas of Interest**: Web development, Artificial intelligence, and lightweight, functional UI/UX design.  
+- **Always Learning**: Actively participating in courses like *The Odin Project*, building personal apps, and improving my programming skills.
+
+---
+
+## 💬 About Me
+
+- **Location**: Tijuana, Mexico.  
+- Open to collaborating on tech ideas, educational projects, or freelance work.  
+
+---
+
+## 🔗 Connect with Me
+*(Add your contact info here — email, LinkedIn, portfolio, etc.)*
+
+---
