@@ -1,4 +1,4 @@
-# Hi there! I'm Oscar (Kicho115) 👋
+# Hi there! I'm Leo 👋
 
 Passionate developer from Tijuana, Mexico, focused on building web apps, working with LLMs, and clean, functional user experiences.  
 I enjoy working with **Next.js**, **Swift**, and **Python**, as well as exploring new tools and frameworks.
