@@ -21,6 +21,8 @@ I enjoy working with **Next.js**, **Swift**, and **Python**, as well as explorin
 ---
 
 ## 🔗 Connect with Me
-*(Add your contact info here — email, LinkedIn, portfolio, etc.)*
+
+- 📧 **Email**: [oscar.leonardo.ang@gmail.com](mailto:oscar.leonardo.ang@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/oscar-angulo-1212062b9](https://www.linkedin.com/in/oscar-angulo-1212062b9/)
 
 ---
