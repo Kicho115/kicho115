@@ -13,13 +13,6 @@ I enjoy working with **Next.js**, **Swift**, and **Python**, as well as explorin
 
 ---
 
-## 💬 About Me
-
-- **Location**: Tijuana, Mexico.  
-- Open to collaborating on tech ideas, educational projects, or freelance work.  
-
----
-
 ## 🔗 Connect with Me
 
 - 📧 **Email**: [oscar.leonardo.ang@gmail.com](mailto:oscar.leonardo.ang@gmail.com)  
